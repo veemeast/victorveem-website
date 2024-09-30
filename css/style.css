@@ -1,0 +1,26 @@
+p{
+    text-align:center ;
+    color: blue;
+}
+body{
+    background-image
+
+}
+h1{
+    text-align:center;
+    color:red;
+}
+table,th,tr{
+    border-color: black;
+    border-collapse: collapse;
+    border-style: solid;
+    background-color: aquamarine;
+    padding: 20px;
+
+}
+button{
+    padding: 3px;
+    background-color: blue;
+    color: yellow;
+    
+}
